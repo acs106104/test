@@ -1,4 +1,4 @@
-### Test 
+### Branch
 
 ## Test
 
@@ -32,3 +32,15 @@ As Kanye West said:
 
 :neutral_face: :neutral_face: :neutral_face:
 :neutral_face: :neutral_face: :neutral_face:
+
+```java
+import java.util.Scanner;
+public class {
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        int a;
+        a = sc.nextInt();
+        System.out.print(a);
+    }
+}
+```
